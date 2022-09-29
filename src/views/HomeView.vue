@@ -7,7 +7,7 @@
 
 
 export default {
-  name: 'HomeView',
+  name: "HomeView",
   components: {
   
   }
